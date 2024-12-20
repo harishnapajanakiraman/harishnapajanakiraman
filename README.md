@@ -49,13 +49,11 @@ I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certifie
 
 ---
 
-## 🛠 **I Code With**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚙️ **Technical Proficiency**
+- **Languages**: Java, C, C++  
+- **Automation Tools**: Selenium (Java)  
+- **Other Tools**: Azure DevOps, MS Office Suite, HP ALM  
+- **Practices**: Software Delivery Lifecycle (SDLC), Software Releases  
 
 ---
 

@@ -23,8 +23,10 @@ I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certifie
 - **Tools**: SQL, Excel (Pivot Tables, Macros), Tableau, Power BI  
 
 ### ⚙️ **Technical Proficiency**
-- **Tools**: Azure DevOps, MS Office Suite, HP ALM  
-- **Practices**: Software Delivery Lifecycle (SDLC), Software Releases  
+- **Languages**: Java, C, C++  
+- **Automation Tools**: Selenium (Java)  
+- **Other Tools**: Azure DevOps, MS Office Suite, HP ALM  
+- **Practices**: Software Delivery Lifecycle (SDLC), Software Releases 
 
 ### 🚀 **Certifications**
 - **Certified Scrum Master (CSM)**
@@ -46,14 +48,7 @@ I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certifie
 - Optimized SQL queries to reduce response time by 20%.
 - Performed financial analysis for 11 projects, achieving 20% cost savings.
 - Managed project tracking using Azure DevOps and MS Project.
-
----
-
-### ⚙️ **Technical Proficiency**
-- **Languages**: Java, C, C++  
-- **Automation Tools**: Selenium (Java)  
-- **Other Tools**: Azure DevOps, MS Office Suite, HP ALM  
-- **Practices**: Software Delivery Lifecycle (SDLC), Software Releases  
+ 
 
 ---
 

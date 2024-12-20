@@ -1,6 +1,6 @@
 # Thank You for visiting my profile!
 
-I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certified Scrum Master** based in **Boston, MA**. I have a Master’s in **Project Management** at Northeastern University, and extensive experience in stakeholder management, project delivery, and Agile practices with 5 years of project experience.
+I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certified Scrum Master** based in **Boston, MA**. I have a Master’s degree in **Project Management** and extensive experience in stakeholder management, project delivery, and Agile practices.
 
 ---
 
@@ -26,7 +26,7 @@ I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certifie
 - **Languages**: Java, C, C++  
 - **Automation Tools**: Selenium (Java)  
 - **Other Tools**: Azure DevOps, MS Office Suite, HP ALM  
-- **Practices**: Software Delivery Lifecycle (SDLC), Software Releases 
+- **Practices**: Software Delivery Lifecycle (SDLC), Software Releases  
 
 ### 🚀 **Certifications**
 - **Certified Scrum Master (CSM)**
@@ -35,20 +35,51 @@ I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certifie
 
 ---
 
-## 💼 **Work Experience**
+## 📂 **Projects**
 
-### 📌 **Project Manager** | Northeastern University  
-*June 2023 - June 2024*  
-- Managed multiple project schedules and ensured 95% on-time delivery using JIRA.
-- Conducted stakeholder interviews and improved documentation efficiency.
-- Reduced onboarding time by 30% through data-driven processes.
+### 🔹 **E-commerce Platform for Shopping Student Essentials**  
+**Nov 2023** | **Northeastern University**  
+- Designed an online platform tailored for students to purchase essentials with ease and efficiency.  
+- Focused on seamless user experience and personalization.  
+- **Skills**: Data Analysis, Adaptability, Communication, Project Management
 
-### 📌 **Application Development Analyst** | Accenture  
-*October 2018 - June 2022*  
-- Optimized SQL queries to reduce response time by 20%.
-- Performed financial analysis for 11 projects, achieving 20% cost savings.
-- Managed project tracking using Azure DevOps and MS Project.
- 
+---
+
+### 🔹 **Strengthening Malawi's Education System**  
+**Nov 2023** | **Northeastern University**  
+- Collaborated on a project aimed at improving education standards and promoting gender equality in Malawi.  
+- Focused on strategic investment in education for sustainable development.  
+- **Skills**: Team Leadership, Communication, Time Management, Quality Assurance, Risk Management, Strategic Planning
+
+---
+
+### 🔹 **John Wiley & Sons Project**  
+**Jan 2023 - Mar 2023** | **Northeastern University**  
+- Defined project objectives, budgets, and risk assessments.  
+- Created scope documents, WBS, schedules, and cost estimations using MS Project.  
+- **Skills**: Team Leadership, Risk Assessment, Project Scheduling, Budget Management, Project Management
+
+---
+
+### 🔹 **Nava Bharat: Energy Solutions for India**  
+**Jan 2023 - Mar 2023** | **Northeastern University**  
+- Analyzed case study requirements and developed project documentation, including WBS and risk plans.  
+- Ensured environmental risk validation to align with project objectives.  
+- **Skills**: Risk Management, Project Scheduling, Strategic Planning, Team Leadership
+
+---
+
+### 🔹 **Study on Nd-YAG Laser Shock Peening**  
+**Dec 2017 - Apr 2018** | **Anna University**  
+- Investigated the impact of laser shock peening on the mechanical properties of aluminum alloy AA 7075-T651.  
+- **Skills**: Research, Data Analysis, Materials Science
+
+---
+
+### 🔹 **Fabrication of Water Vapour Removal System**  
+**Dec 2016 - Apr 2017** | **Anna University**  
+- Designed a windshield defogging system using embedded copper wires and electric current.  
+- **Skills**: Fabrication, Electrical Systems, Project Execution
 
 ---
 

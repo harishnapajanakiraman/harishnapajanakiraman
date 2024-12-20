@@ -83,6 +83,35 @@ I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certifie
 
 ---
 
+
+## 🏆 **Honors and Awards**
+
+### 🥇 **Accenture Excellence Award (ACE)**  
+*Issued by Accenture · Jan 2022*  
+- Won the ACE award in the **“Big Heart”** individual category for contributions to organizing events and teaching intellectually disabled students. Served as the **"Hour of Code"** contact in Chennai.
+
+### 🥇 **Pfizer Excellence Award**  
+*Issued by Accenture · Jan 2022*  
+- Recognized for notable contributions to project success.
+
+### 🥇 **Performance Recognition for FY20**  
+*Issued by Accenture · Sep 2020*  
+- Awarded for outstanding services in project delivery.
+
+### 🥇 **Hackathon APP FY20**  
+*Issued by Accenture · Dec 2019*  
+- Won a special award for a cybersecurity project using AI, including **Deep Q Network** and **CNN** for function approximation.
+
+### 🥇 **APP ATCI Pinnacle Awards FY19Q3**  
+*Issued by Accenture · Aug 2019*  
+- Awarded the **“Champion”** title in **Product Engineering**.
+
+### 🥈 **Proficient Entrepreneur**  
+*Issued by Anna University · Mar 2016*  
+- Secured second place in the **Proficient Entrepreneur** competition.
+
+---
+
 ## 📫 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-napa-janakiraman/)  

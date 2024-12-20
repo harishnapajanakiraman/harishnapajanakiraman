@@ -1,6 +1,6 @@
-# Hey 👋 What's up?
+# Thank You for visiting my profile!
 
-I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certified Scrum Master** based in **Boston, MA**. I have a Master’s in **Project Management** and extensive experience in stakeholder management, project delivery, and Agile practices.
+I'm **Harish Napa Janakiraman**, a passionate **Project Manager** and **Certified Scrum Master** based in **Boston, MA**. I have a Master’s in **Project Management** at Northeastern University, and extensive experience in stakeholder management, project delivery, and Agile practices with 5 years of project experience.
 
 ---
 

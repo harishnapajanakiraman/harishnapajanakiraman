@@ -6,10 +6,10 @@ I'm **Harish Napa Janakiraman**, a passionate professional with background in **
 
 ## 🔎 **About Me**
 
-✨ Empowering projects since: 2018
-📚 I'm currently mastering: Agile Project Management and Generative AI tools
-🎯 Goals: To drive successful project deliveries and foster continuous improvement in team dynamics
-🎲 Fun fact: I enjoy transforming complex challenges into streamlined, actionable solutions!
+✨ **Empowering projects since**: 2018  
+📚 **I'm currently mastering**: Agile Project Management and Generative AI tools  
+🎯 **Goals**: To drive successful project deliveries and foster continuous improvement in team dynamics  
+🎲 **Fun fact**: I enjoy transforming complex challenges into streamlined, actionable solutions!  
 
 ---
 

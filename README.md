@@ -32,9 +32,8 @@ I'm **Harish Napa Janakiraman**, a passionate professional with background in **
 - **Certified Scrum Master (CSM)**
 - **Business Analytics Nanodegree (Udacity)**
 - **Product Management Professional (Aha!)**
-- **Becoming a Product Manager: A Complete Guide** – International Institute of Business Analysis (IIBA®)
-- **Agile Foundations – PMI® Registered Education Provider**
-- **Generative AI for Digital Marketers** – PMI® Registered Education Provider
+- **Atlassian Agile Project Management Professional**
+- **Atlassian IT Service Management (ITSM) Professional**
 
 ---
 

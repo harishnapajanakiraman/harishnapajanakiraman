@@ -6,10 +6,10 @@ I'm **Harish Napa Janakiraman**, a passionate professional with background in **
 
 ## 🔎 **About Me**
 
-✨ **Creating bugs since**: 2018  
-📚 **I'm currently learning**: Advanced Agile Techniques and DevOps Practices  
-🎯 **Goals**: To lead innovative projects and drive continuous improvement in team performance  
-🎲 **Fun fact**: I love solving complex problems with simple solutions!
+✨ Empowering projects since: 2018
+📚 I'm currently mastering: Agile Project Management and Generative AI tools
+🎯 Goals: To drive successful project deliveries and foster continuous improvement in team dynamics
+🎲 Fun fact: I enjoy transforming complex challenges into streamlined, actionable solutions!
 
 ---
 

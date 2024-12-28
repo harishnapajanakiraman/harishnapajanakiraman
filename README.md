@@ -29,11 +29,11 @@ I'm **Harish Napa Janakiraman**, a passionate professional with background in **
 - **Practices**: Software Delivery Lifecycle (SDLC), Software Releases  
 
 ### 🚀 **Certifications**
-- **Certified Scrum Master (CSM)**
+- **Certified Scrum Master - CSM (Scrum Alliance)**
 - **Business Analytics Nanodegree (Udacity)**
 - **Product Management Professional (Aha!)**
-- **Atlassian Agile Project Management Professional**
-- **Atlassian IT Service Management (ITSM) Professional**
+- **Agile Project Management Professional (Atlassian)**
+- **IT Service Management (ITSM) Professional (Atlassian)**
 
 ---
 

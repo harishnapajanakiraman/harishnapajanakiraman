@@ -1,6 +1,6 @@
 # Thank You for visiting my profile!
 
-I'm **Harish Napa Janakiraman**, a passionate professional with background in **Project Managemenet**, **Product Management**, **Quality Assurance**, and **Certified Scrum Master** based in **Boston, MA** and open to relocated anywhere in the United States for good opportunity. I have a Master’s degree in **Project Management** and extensive experience in stakeholder management, project delivery, and Agile practices.
+I'm **Harish Napa Janakiraman**, a passionate professional with background in **Project Management**, **Business Analysis**, **Product Management**, **Quality Assurance**, and **Certified Scrum Master** based in **Boston, MA** and open to relocated anywhere in the United States for good opportunity. I have a Master’s degree in **Project Management** and extensive experience in stakeholder management, project delivery, and Agile practices.
 
 ---
 

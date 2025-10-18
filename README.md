@@ -1,6 +1,17 @@
 # Thank You for visiting my profile!
 
-I'm **Harish Napa Janakiraman**, a passionate professional with background in **Project Management**, **Business Analysis**, **Product Management**, **Quality Assurance**, and **Certified Scrum Master** based in **Boston, MA** and open to relocated anywhere in the United States for good opportunity. I have a Master’s degree in **Project Management** and extensive experience in stakeholder management, project delivery, and Agile practices.
+## 👋 Hi, I’m Harish Napa Janakiraman  
+
+I’m a passionate **Business Analyst** based in **Boston, MA**, focused on transforming data into strategic business insights and driving process efficiency.  
+
+🎓 **Education:** Master’s in Project Management  
+💼 **Expertise:** Business Analysis • Data Visualization • Requirements Gathering • Stakeholder Management • Process Optimization  
+🧠 **Tools & Skills:** SQL • Power BI • Excel • Tableau • Jira • Confluence • Agile Methodologies  
+🚀 I thrive at the intersection of business and technology—aligning cross-functional teams, defining KPIs, and delivering data-driven solutions that create measurable impact.  
+
+🌎 **Open to relocation across the United States** for opportunities in **Business Analysis**, **Data Analytics**, or **Product Strategy**.  
+
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/harishnapa) | [Email](mailto:yourname@email.com)
 
 ---
 
